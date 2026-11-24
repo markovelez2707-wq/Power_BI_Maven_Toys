@@ -57,4 +57,4 @@ Se crearon medidas personalizadas en **DAX** para calcular KPIs principales y co
 * **Plazas Principales:** *Ciudad de México*, *Guadalajara* y *Monterrey* encabezan el volumen de unidades desplazadas a nivel nacional.
 
 ## Contenido del Repositorio
-* `Maven_Toys_Dashboard.pbix` — Archivo editable de Power BI Desktop con el modelo relacional y fórmulas DAX completas.
+* `Maven Toys POWER BI.pbix` — Archivo editable de Power BI Desktop con el modelo relacional y fórmulas DAX completas.
